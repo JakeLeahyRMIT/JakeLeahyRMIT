@@ -1,3 +1,6 @@
 I'm jake
 
-This is my RMIT student account
+I am trapped in this readme, please help me
+
+- Sincerly
+  Jake
